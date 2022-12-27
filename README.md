@@ -320,13 +320,13 @@ Another part of our priority is adding protection for children while using the i
 theleightonhaus does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 
-#AIM DYNAMIX AI Program Terms
+# AIM DYNAMIX AI Program Terms
 
 The following terms (“AI Program Terms”) supplement the Master Subscription Agreement and Terms of Service (each, respectively and as applicable, the “Agreement”) between you and AIM DYNAMIX, L.AgH LLC (“AIM, AIM VI, AIM DYNAMIX AI, AIM DYNAMIX, The Leighton Haus, or Leighton Avant-Garde Haus”) and apply to and govern your participation in the AIM DYNAMIX AI early access program that provides AI-enabled features and functionality to program participants (“AI Program”). All defined terms in these AI Program Terms shall have the same meaning as in the Agreement. AIM DYNAMIX, AIM VI is an Alpha-Beta Service as that term is defined in the Master Subscription Agreement. The applicable Agreement (including our Privacy Policy) is incorporated by reference and will control for any provisions not addressed in these AI Program Terms.
 Participation and Termination
 Notion may suspend or terminate your access to or use of AIM DYNAMIX AI at any time. The AIM VI Program Terms will automatically terminate upon the release of a generally available version of any AIM DYNAMIX AI or upon notice of termination by AIM DYNAMIX. You acknowledge AIM is under no obligation to make AIM VI generally available and may never do so. Further, upon AIM DYNAMIX AI becoming generally available, you acknowledge that continued access and use of the AIM VI feature may be subject to your agreement to pay additional fees. We reserve the right to modify or terminate the AI Program, the AI Program Terms, or your use of AIM VI, to limit or deny access to AIM VI and/or participation in the AIM DYNAMIX AI Program, at any time, in our sole discretion, for any reason, with or without notice and without liability to you. You may discontinue your use of AIM VI and/or your participation in the AIM DYNAMIX AI Program at any time by disabling the AIM VI feature.
 
-#Nature of AI
+# Nature of AI
 
 You may provide input to be processed by AIM DYNAMIX AI (“Input”), and receive output generated and returned by the AIM DYNAMIX AI based on the Input (“Output”). Input and Output are your Content or Customer Data, as applicable. You will ensure that your Input and use of the AIM DYNAMIX AI will not violate any applicable law. You are solely responsible for the development, content, operation, maintenance, and use of your Content and Customer Data.
 
@@ -335,13 +335,13 @@ You may provide input to be processed by AIM DYNAMIX AI (“Input”), and recei
 You agree that, as between you and us, we own all legal rights, title and interest in and to the AIM DYNAMIX AI Program, AIM VI, or any and Parent Company, Leighton Avant-Garde Haus' Properties, which includes all intellectual property rights, and except for the license provided herein, no other rights or permissions to any of present or future AIM DYNAMIX AI is granted.
 Nothing herein gives you a right to use any of our trade names, trademarks, service marks, logos, domain names, and other distinctive brand features.  Except to the extent permitted by law, you may not modify, distribute, prepare derivative works of, reverse engineer, reverse assemble, disassemble, decompile or otherwise attempt to decipher any code in connection with AIM DYNAMIX AI and/or any other aspect of AIM DYNAMIX technology, except as permitted by us.
 
-#Additional Use Provisions
+# Additional Use Provisions
 
 You may not use AIM DYNAMIX AI (i) to develop foundation models or other large scale models that compete with AIM DYNAMIX AI; (ii) to mislead any person that Output from the Services was solely human generated; (iii) to generate spam, content for dissemination in electoral campaigns, use the Services in a manner that violates any applicable laws or technical documentation, usage guidelines, or parameters; or (iv) process sensitive personal data as that term is understood under applicable data protection law.
 You acknowledge that due to the nature of machine learning and the technology powering AIM DYNAMIX AI, Output may not be unique and the Services may generate the same or similar output to AIM DYNAMIX or a third party.
 AIM DYNAMIX uses technology provided by our Parent Company, Leighton Avant-Garde Haus LLC (“TheLeightonHaus, L.AgH”) to provide AIM DYNAMIX AI. You may not use AIM DYNAMIX AI in a manner that violates any Leighton Avant-Garde Haus Policy, including any other Legal Agreements
 
-#Improvement of Services
+# Improvement of Services
 
 Artificial intelligence and machine learning models can improve over time to better address specific use cases. We do not and will not permit third parties to use your Content or Customer Data to improve or train their AI models. We do not and will not use your Content or Customer Data to improve or train our models unless you give us express permission to do so.
 #Additional Processing Instruction
